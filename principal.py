@@ -1,3 +1,5 @@
+# ✅ Bien hecho: import del módulo propio y llamadas con el prefijo mi_matematica.
+# como corresponde para usar funciones de otro archivo.
 import mi_matematica
 
 print(mi_matematica.es_par(9))
