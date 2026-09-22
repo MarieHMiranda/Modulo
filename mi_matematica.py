@@ -28,7 +28,7 @@ def area_circulo(radio):
     return area
 
 # ❌ Error: el comentario dice "retorna verdader", falta la "o" final (retorna verdadero).
-#retorna verdader si el primer número es mayor al segundo
+#retorna verdadero si el primer número es mayor al segundo
 def mayor_que(numero1, numero2):
     ok = numero1 > numero2
     return ok
