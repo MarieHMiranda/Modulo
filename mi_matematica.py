@@ -20,8 +20,10 @@ def promedio(lista_numeros):
 # 💡 Sugerencia: como este ejercicio es justamente sobre módulos, este es un buen lugar
 # para practicar "import math" y usar math.pi en vez de escribir 3.14159 a mano.
 #retorna el área del círculo a partir del radio ingresado
+import math
+
 def area_circulo(radio):
-    pi = 3.14159
+    pi = math.pi
     area = pi * radio ** 2
     return area
 
